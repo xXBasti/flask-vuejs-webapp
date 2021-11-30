@@ -3,7 +3,7 @@
 > A Flask + Vue.js sample application adapted from [this repository](https://github.com/gtalarico/flask-vuejs-template).
 
 ![Vue Logo](/docs/vue-logo.png "Vue Logo") ![Flask Logo](/docs/flask-logo.png "Flask Logo")
-
+test
 ## Features
 
 * Minimal Flask 1.0 App
